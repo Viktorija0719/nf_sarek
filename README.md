@@ -1,4 +1,3 @@
-````markdown
 # Running nf-core/sarek with Nextflow
 
 This directory contains notes on using the **nf-core/sarek** pipeline for germline and somatic variant calling with Nextflow.
